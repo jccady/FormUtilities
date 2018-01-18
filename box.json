@@ -6,11 +6,11 @@
     "directory":"",
     "createPackageDirectory":true,
     "packageDirectory":"",
-    "homepage":"https://github.com/Tropicalista/FormUtilities",
+    "homepage":"https://github.com/jccady/FormUtilities.git",
     "documentation":"http://wiki.coldbox.org",
     "repository":{
         "type":"git",
-        "url":"https://github.com/Tropicalista/FormUtilities"
+        "url":"https://github.com/jccady/FormUtilities.git"
     },
     "bugs":"",
     "slug":"formutilities",
